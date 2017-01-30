@@ -2,9 +2,19 @@ body {
    background-color: #E6E6FA;
    color: #191970;
 }
-p { background-color: #A6C6DF }
-#content { background-color: white }
-#rule { background-color: red}
-main p { 
+
+p { 
+    background-color: #AEAED4
+}
+
+#my-p-id {
+    background-color: #FFFFFF
+}
+
+#r-p-id {
+    background-color: red
+}
+
+main p {
     background-color: inherit;
 }
